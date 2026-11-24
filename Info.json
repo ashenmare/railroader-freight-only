@@ -1,0 +1,16 @@
+{
+  "identifier": "ashenmare/freight-only",
+  "version": "0.1.5",
+  "name": "Freight Only",
+  "author": "ashenmare",
+  "scope": "optional",
+  "assemblies": [
+    "FreightOnly.dll"
+  ],
+  "dependencies": {
+    "required": [
+      "rr/game >=0.6.2"
+    ]
+  },
+  "description": "Passengers are optional: the reputation counts freight performance and safety only (60% and 40%). Passenger trains still earn fares. Switch in Preferences > Mods. Host-side."
+}
